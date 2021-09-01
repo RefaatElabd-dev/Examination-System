@@ -1,0 +1,149 @@
+E:\iti\Database\project\Examination System\bin\Debug\Examination System.exe.config
+E:\iti\Database\project\Examination System\bin\Debug\Examination System.exe
+E:\iti\Database\project\Examination System\bin\Debug\Examination System.pdb
+E:\iti\Database\project\Examination System\bin\Debug\Guna.UI2.dll
+E:\iti\Database\project\Examination System\obj\Debug\Examination System.csprojAssemblyReference.cache
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.Course.resources
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.Properties.Resources.resources
+E:\iti\Database\project\Examination System\obj\Debug\Examination System.csproj.GenerateResource.cache
+E:\iti\Database\project\Examination System\obj\Debug\Examination System.csproj.CoreCompileInputs.cache
+E:\iti\Database\project\Examination System\obj\Debug\Examination System.csproj.CopyComplete
+E:\iti\Database\project\Examination System\obj\Debug\Examination System.exe
+E:\iti\Database\project\Examination System\obj\Debug\Examination System.pdb
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.Login.resources
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.StudentLoggedIn.resources
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.Instructor.resources
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.CourseDetails.resources
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.CreateNewAccount.resources
+E:\iti\Database\project\Examination System\obj\Debug\Examination_System.Generate_Exam.resources
+E:\iti\Database\project\Examination System - Copy\bin\Debug\Examination System.exe.config
+E:\iti\Database\project\Examination System - Copy\bin\Debug\Examination System.exe
+E:\iti\Database\project\Examination System - Copy\bin\Debug\Examination System.pdb
+E:\iti\Database\project\Examination System - Copy\bin\Debug\Guna.UI2.dll
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination System.csprojAssemblyReference.cache
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.Course.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.CourseDetails.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.CreateNewAccount.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.Generate_Exam.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.Instructor.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.Login.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.Properties.Resources.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.StudentLoggedIn.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination System.csproj.GenerateResource.cache
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination System.csproj.CoreCompileInputs.cache
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination System.csproj.CopyComplete
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination System.exe
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination System.pdb
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.Admin.resources
+E:\iti\Database\project\Examination System - Copy\obj\Debug\Examination_System.DeptDialog.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\bin\Debug\Examination System.exe.config
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\bin\Debug\Examination System.exe
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\bin\Debug\Examination System.pdb
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\bin\Debug\Guna.UI2.dll
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination System.csprojAssemblyReference.cache
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.Admin.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.Course.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.CourseDetails.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.CreateNewAccount.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.DeptDialog.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.Generate_Exam.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.Instructor.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.Login.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.Properties.Resources.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.Questions.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.StudentLoggedIn.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination System.csproj.GenerateResource.cache
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination System.csproj.CoreCompileInputs.cache
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination System.csproj.CopyComplete
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination System.exe
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination System.pdb
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.AddMcqQ.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.TFQ.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.UpdateMCQ.resources
+E:\1ITI\17AdvancedDB\Project\Examination System - Copy\obj\Debug\Examination_System.UpdateTF.resources
+E:\Examination System - Copy (2)\Examination System - Copy\bin\Debug\Examination System.exe.config
+E:\Examination System - Copy (2)\Examination System - Copy\bin\Debug\Examination System.exe
+E:\Examination System - Copy (2)\Examination System - Copy\bin\Debug\Examination System.pdb
+E:\Examination System - Copy (2)\Examination System - Copy\bin\Debug\Guna.UI2.dll
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination System.csprojAssemblyReference.cache
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.AddMcqQ.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.Admin.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.Course.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.CourseDetails.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.CreateNewAccount.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.DeptDialog.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.Generate_Exam.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.Instructor.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.Login.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.Properties.Resources.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.Questions.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.StudentLoggedIn.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.TFQ.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.UpdateMCQ.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination_System.UpdateTF.resources
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination System.csproj.GenerateResource.cache
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination System.csproj.CoreCompileInputs.cache
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination System.csproj.CopyComplete
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination System.exe
+E:\Examination System - Copy (2)\Examination System - Copy\obj\Debug\Examination System.pdb
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\bin\Debug\Examination System.exe.config
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\bin\Debug\Examination System.exe
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\bin\Debug\Examination System.pdb
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\bin\Debug\Guna.UI2.dll
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csprojAssemblyReference.cache
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.AddMcqQ.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Admin.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Course.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.CourseDetails.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.CreateNewAccount.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.DeptDialog.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Generate_Exam.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Instructor.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.instructorCourse.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Login.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Properties.Resources.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Questions.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.StudentLoggedIn.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.TFQ.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.UpdateMCQ.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.UpdateTF.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csproj.GenerateResource.cache
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csproj.CoreCompileInputs.cache
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csproj.CopyComplete
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination System.exe
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination System.pdb
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.cntInstructor.resources
+E:\iti\projects\Sql\New folder\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.EditStudentinfo.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\bin\Debug\Examination System.exe.config
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\bin\Debug\Examination System.exe
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\bin\Debug\Examination System.pdb
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\bin\Debug\Guna.UI2.dll
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csprojAssemblyReference.cache
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.AddMcqQ.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Admin.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.cntInstructor.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Course.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.CourseDetails.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.CreateNewAccount.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.DeptDialog.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.EditStudentinfo.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Generate_Exam.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Instructor.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.instructorCourse.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Login.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Properties.Resources.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Questions.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.StudentLoggedIn.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.TFQ.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.UpdateMCQ.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.UpdateTF.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csproj.GenerateResource.cache
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csproj.CoreCompileInputs.cache
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination System.csproj.CopyComplete
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination System.exe
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination System.pdb
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\bin\Debug\CircularProgressBar.dll
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\bin\Debug\WinFormAnimation.dll
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\bin\Debug\CircularProgressBar.xml
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.ManageStudents.resources
+C:\iti c programs\ExamDB project\My Edits\Examination System Final\Examination System - Copy\obj\Debug\Examination_System.Student.resources
